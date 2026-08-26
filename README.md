@@ -2,8 +2,8 @@
 该仓库中的 i64 文件需要使用 **IDA 9.1 或更高版本** 打开  
 _The i64 files in the releases need to be opened with **IDA9.1 or above**_  
 
-服务端的 i64 文件来自 [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)  
-_The server's i64 files come from [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)_  
+~~服务端的 i64 文件来自 [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)~~  
+_~~The server's i64 files come from [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)~~_  
 你也可以从 [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/) 下载其他版本的服务端 i64 文件  
 _You can also download other versions of the server's i64 files from [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)_  
 
@@ -15,7 +15,7 @@ _Below are the Tags sorted from newest to oldest_
 
 - [1.26.44.3](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.44.3)
 - [1.26.40.5](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.40.5)  
-  [1.26.4005.0 (Windows)](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.40.05)
+  [1.26.4005.0 (Windows)](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.4005.0)
 - [1.26.33.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.33.1)
 - [1.26.32.2](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.32.2)
 - [1.26.30.5](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.30.5)
