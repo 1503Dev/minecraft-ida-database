@@ -12,7 +12,8 @@ _The version sorting in Releases is not necessarily from newest to oldest_
 以下为按从新到旧排序的标签  
 _Below are the Tags sorted from newest to oldest_  
 
-
+## 1.26
+- [1.26.45.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.45.1)
 - [1.26.44.3](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.44.3)
 - [Netease-3.9.15.297907](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/netease-3.9.15.297907)  
   [Netease-3.9.15.297900](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/netease-3.9.15.297900)
@@ -26,6 +27,7 @@ _Below are the Tags sorted from newest to oldest_
 - [1.26.13.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.13.1)
 - [1.26.3.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.3.1)
 - [1.26.0.2](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.26.0.2)
+## 1.21
 - [1.21.132.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.132.1)
 - [1.21.131.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.131.1)
 - [1.21.120.4](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.120.4)
@@ -56,6 +58,7 @@ _Below are the Tags sorted from newest to oldest_
 - [1.21.2.02](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.2.02)
 - [1.21.1.03](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.1.03)
 - [1.21.0.03](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.21.0.03)
+## 1.20
 - [1.20.81.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.20.81.01)
 - [1.20.73.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.20.73.01)
 - [1.20.62.02](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.20.62.02)
@@ -64,13 +67,27 @@ _Below are the Tags sorted from newest to oldest_
 - [1.20.32.03](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.20.32.03)
 - [1.20.15.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.20.15.01)
 - [1.20.1.02](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.20.1.02)
+## 1.19
 - [1.19.83.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.19.83.01)
+## 1.18
 - [1.18.32.02](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.18.32.02)
 - [1.18.0.02](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.18.0.02)
+## 1.17
 - [1.17.41.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.17.41.01)
 - [1.17.0.02](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.17.0.02)
+## 1.16
 - [1.16.221.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.16.221.01)
 - [1.16.210.05](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.16.210.05)
 - [1.16.201.01](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.16.201.01)
 - [1.16.100.04](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.16.100.04)
+## 1.14
+- [1.14.60.5](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.14.60.5)
+## Village & Pillage
+- [1.13.1.5](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.13.1.5)
+- [1.12.1.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.12.1.1)
+## Update Aquatic
+## 1.2
+## 1.1
+## 1.0
+## Alpha
 - [0.1.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/0.1.1)
