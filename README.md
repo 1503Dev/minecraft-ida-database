@@ -91,4 +91,7 @@ _Below are the Tags sorted from newest to oldest_
 ## 1.1
 ## 1.0
 ## Alpha
+- [0.4.0](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/0.4.0)
+- [0.3.3](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/0.3.3)
+- [0.2.2](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/0.2.2)
 - [0.1.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/0.1.1)
