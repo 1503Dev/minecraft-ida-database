@@ -88,6 +88,7 @@ _Below are the Tags sorted from newest to oldest_
 - [1.12.1.1](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.12.1.1)
 ## Update Aquatic
 ## 1.2
+- [1.2.11.4](https://github.com/1503Dev/libminecraftpe.so-ida-analysis/releases/tag/1.2.11.4)
 ## 1.1
 ## 1.0
 ## Alpha
