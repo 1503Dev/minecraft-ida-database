@@ -1,5 +1,5 @@
 # minecraft-ida-database
-该仓库中的 i64 文件大多数需要使用 **IDA 9.1 或更高版本** 打开，最低分析版本为 IDA 9.0，最高分析版本为 IDA 9.3  
+Releases 中的 i64 文件大多数需要使用 **IDA 9.1 或更高版本** 打开，最低分析版本为 IDA 9.0，最高分析版本为 IDA 9.3  
 _The i64 files in the releases mostly need to be opened with **IDA 9.1 or above**; the minimum analysis version is IDA 9.0, and the maximum analysis version is IDA 9.3._  
 
 ~~服务端的 i64 文件来自 [FloppyDolphin57's database](https://www.mediafire.com/folder/ammda8wfvbw9x/)~~  
@@ -97,6 +97,9 @@ _Below are the Tags sorted from newest to oldest_
 ## 1.1
 ## 1.0
 ## Alpha
+- [0.10.5](https://github.com/1503Dev/minecraft-ida-database/releases/tag/0.10.5)
+- [0.9.5](https://github.com/1503Dev/minecraft-ida-database/releases/tag/0.9.5)
+- [0.8.1](https://github.com/1503Dev/minecraft-ida-database/releases/tag/0.8.1)
 - [0.7.6](https://github.com/1503Dev/minecraft-ida-database/releases/tag/0.7.6)
 - [0.6.1](https://github.com/1503Dev/minecraft-ida-database/releases/tag/0.6.1)
 - [0.5.0](https://github.com/1503Dev/minecraft-ida-database/releases/tag/0.5.0)
