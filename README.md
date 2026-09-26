@@ -18,9 +18,9 @@ _The version sorting in Releases is not necessarily from newest to oldest_
 _Below are the Tags sorted from newest to oldest_  
 
 ## 1.26
+- 1.26.52.3 (Working in progress)
 - [1.26.51.1](https://github.com/1503Dev/minecraft-ida-database/releases/tag/1.26.51.1)
 - [1.26.50.4](https://github.com/1503Dev/minecraft-ida-database/releases/tag/1.26.50.4)  
-  1.26.5004.0 (Windows, Working in progress)
 - [1.26.45.1](https://github.com/1503Dev/minecraft-ida-database/releases/tag/1.26.45.1)  
   [1.26.4501.0 (Windows)](https://github.com/1503Dev/minecraft-ida-database/releases/tag/1.26.4501.0)
 - [1.26.44.3](https://github.com/1503Dev/minecraft-ida-database/releases/tag/1.26.44.3)
