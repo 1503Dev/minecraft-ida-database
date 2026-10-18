@@ -14,8 +14,8 @@ _1503Dev/minecraft-ida-database is not approved by Mojang and is not associated 
 
 Releases 中的版本排序不一定是按从新到旧排列的  
 _The version sorting in Releases is not necessarily from newest to oldest_  
-以下为按从新到旧排序的标签  
-_Below are the Tags sorted from newest to oldest_  
+以下为按从新到旧排序的标签（Netease 版按时间顺序排序）  
+_Below are the Tags sorted from newest to oldest (Netease version sorted in chronological order)_
 
 ## 1.26
 - [1.26.52.3](https://github.com/1503Dev/minecraft-ida-database/releases/tag/1.26.52.3)
@@ -24,8 +24,8 @@ _Below are the Tags sorted from newest to oldest_
 - [1.26.45.1](https://github.com/1503Dev/minecraft-ida-database/releases/tag/1.26.45.1)  
   [1.26.4501.0 (Windows)](https://github.com/1503Dev/minecraft-ida-database/releases/tag/1.26.4501.0)
 - [1.26.44.3](https://github.com/1503Dev/minecraft-ida-database/releases/tag/1.26.44.3)
-- [Netease-3.9.15.297907](https://github.com/1503Dev/minecraft-ida-database/releases/tag/netease-3.9.15.297907)  
-  [Netease-3.9.15.297900](https://github.com/1503Dev/minecraft-ida-database/releases/tag/netease-3.9.15.297900)
+- [Netease-3.9.15.297907 (1.21.120, Netease)](https://github.com/1503Dev/minecraft-ida-database/releases/tag/netease-3.9.15.297907)  
+  [Netease-3.9.15.297900 (4399)](https://github.com/1503Dev/minecraft-ida-database/releases/tag/netease-3.9.15.297900)
 - [1.26.40.5](https://github.com/1503Dev/minecraft-ida-database/releases/tag/1.26.40.5)  
   [1.26.4005.0 (Windows)](https://github.com/1503Dev/minecraft-ida-database/releases/tag/1.26.4005.0)
 - [1.26.33.1](https://github.com/1503Dev/minecraft-ida-database/releases/tag/1.26.33.1)
@@ -99,6 +99,7 @@ _Below are the Tags sorted from newest to oldest_
 - [1.2.11.4](https://github.com/1503Dev/minecraft-ida-database/releases/tag/1.2.11.4)
 ## 1.1
 ## 1.0
+- [1.0.9.1](https://github.com/1503Dev/minecraft-ida-database/releases/tag/1.0.9.1)
 ## Alpha
 - [0.10.5](https://github.com/1503Dev/minecraft-ida-database/releases/tag/0.10.5)
 - [0.9.5](https://github.com/1503Dev/minecraft-ida-database/releases/tag/0.9.5)
